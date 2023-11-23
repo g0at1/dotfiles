@@ -1,3 +1,3 @@
 # dotfiles
 
-Nvim config as of 19.10.2023 
+Nvim config as of 23.11.2023 
